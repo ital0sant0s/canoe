@@ -42,5 +42,6 @@ temp/
 *.tfstate.*
 .terraform/
 .terraform.lock.hcl
+*.plan.json
 .aws/
 .claude/
